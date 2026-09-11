@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+*.user/
+*.suo
+*.rsuser
+
+# .NET generated files
+bin/
+obj/
